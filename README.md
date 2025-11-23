@@ -9,7 +9,6 @@ This task focuses on writing basic SQL queries using:
 - Filtering & Projection
 
 
-
 ## Concepts Used
 - SELECT *  
 - SELECT specific columns  
