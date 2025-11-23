@@ -28,5 +28,4 @@ This task focuses on writing basic SQL queries using:
 3. Run each query from the `queries.sql` file.
 4. Validate the output.
 
-## Submission Link
-https://forms.gle/8Gm83s53KbyXs3Ne9
+
